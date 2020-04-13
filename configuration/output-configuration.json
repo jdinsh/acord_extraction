@@ -1,0 +1,30 @@
+{   
+    "ACORD_125_2009_1" : {
+            "DATE":"primary_info>date",
+            "NAIC_CODE":"primary_info>naic_code",
+            "CARRIER":"primary_info>carrier",
+            "AGENCY":"primary_info>agency",
+            "PROGRAM_NAME":"primary_info>program",
+            "COMPANY_POLICY_OR_PROGRAM_NAME":"primary_info>company_policy",
+            "POLICY_NUMBER":"primary_info>policy_number",
+            "NAICS":"applicant_info>>data>naics", 
+            "SIC":"applicant_info>data>sics", 
+            "GL_CODE":"applicant_info>data>gl_code", 
+            "APPLICANT_NAME":"applicant_info>applicant_name",
+            "BUSINESS_PHONE" : "applicant_info>business_phone"
+    },
+    "ACORD_125_2016_1" : {
+        "DATE":"primary_info>date",
+        "NAIC_CODE":"primary_info>naic_code",
+        "CARRIER":"primary_info>carrier",
+        "AGENCY":"primary_info>agency",
+        "PROGRAM_NAME":"primary_info>program",
+        "COMPANY_POLICY_OR_PROGRAM_NAME":"primary_info>company_policy",
+        "POLICY_NUMBER":"primary_info>policy_number",
+        "NAICS":"applicant_info>>data>naics", 
+        "SIC":"applicant_info>data>sics", 
+        "GL_CODE":"applicant_info>data>gl_code", 
+        "APPLICANT_NAME":"applicant_info>applicant_name",
+        "BUSINESS_PHONE" : "applicant_info>business_phone"
+    }
+}  
